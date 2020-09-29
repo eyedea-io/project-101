@@ -13,6 +13,7 @@ This is a schema of our typical product development project. It’s inspired by 
 - 📅 Initial meeting (1-2h) - project scope & needs description
 - 📦 Send us all specifications / files / designs - everything that might be useful 
 - ⏳ Project estimation (3-5 days) -  we may ask some questions to have a better understanding of the product
+- 🧑‍🚀 Crew selection 
 - 📩 E-mail message with our vision of your product development with some numbers 
 
 
