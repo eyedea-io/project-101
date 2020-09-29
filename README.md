@@ -49,7 +49,8 @@ During the product development you'll get:
 As we're going together towards the goal of making the project, we'll need your presence sometimes.
 
 - #️⃣ answer for questions on Slack
-- 📅 attend product meetings (
+- 📅 attend product meetings 
+- 🙋‍ follow instructions set according to your role in responsibility assignment matrix
 
 ## After project
 
