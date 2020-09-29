@@ -19,8 +19,8 @@ At this point both sides need to decide if we’re starting the cooperation.
 
 - 📅 Decision meeting (1-2h)
 
-- If GO - agreement, type of cooperation (time & material / fixed price) 
-- NO-GO - see you next time!
+If *GO* - agreement, type of cooperation (time & material / fixed price) 
+If *NO-GO* - see you next time!
 
 
 ## Project kickoff 🚀
