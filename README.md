@@ -41,9 +41,9 @@ Let's do this!
 
 During the product development you'll get: 
 
-- 📩  weekly summary of project progress with hour reports and most exciting updates (single e-mail)
-- 💻  access to designs & code
-- ⏰  access to hour reports
+- 📩  Weekly summary of project progress with hour reports and most exciting updates (single e-mail)
+- 💻  Access to designs & code
+- ⏰  Access to hour reports
 
 ### Tools & methods
 
@@ -58,8 +58,8 @@ Every team member has a certain role and responsibility. We're using a clear res
 
 ### Project schedule
 
-- 🗓  project plan
-- 🔁  plan-execution-measure loop
+- 🗓  Project plan (depends on the size of the project, around 3days)
+- 🔁  Plan-execution-measure loop
 
 
 ### Plan-execution-measure loop
@@ -75,9 +75,9 @@ We're splitting the project into smaller parts (scenarios), each chunk is planne
 
 As we're going together towards the goal of doing the project, we'll need your presence sometimes.
 
-- #️⃣  answer for questions on Slack
-- 📅  attend product meetings (once a week / 2 weeks - 1h)
-- 🙋‍  follow instructions set according to your role in the responsibility assignment matrix
+- #️⃣  Answer for questions on Slack
+- 📅  Attend product meetings (once a week / 2 weeks - 1h)
+- 🙋‍  Follow instructions set according to your role in the responsibility assignment matrix
 
 ## After the project
 
