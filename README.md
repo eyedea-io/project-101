@@ -12,12 +12,12 @@ The document you're reading is a schema of our typical product development proje
 
 - 📅  Initial meeting (1-2h) - project scope & needs description
 - 📦  Send us all specifications/files/designs - everything that might be useful - hello@eyedea.io
-- ⏳  Project estimation (3-5 days) -  we may ask some questions to have a better understanding of the product
+- ⏳  Project estimation (3-5 days) - we may ask some questions to have a better understanding of the product
 - 🧑‍🚀  Crew selection 
 - 📩  E-mail message with our vision of your product development with some numbers 
 
 
-## FINAL GO / NO-GO
+## FINAL GO / NO-GO 
 
 At this point, both sides need to decide if we're starting the cooperation. 
 
@@ -35,15 +35,10 @@ Let's do this!
 - #️⃣  Slack channel setup - all communication goes there - main rule: ** don't use private messages** 
 - 📅  Team & project introduction meeting (1h)
 - 🛠  Tools access/setup - both sides provide a list of people & tools (we're creating accounts if needed)
-
-
-## Project timeline
-
 - 🗓  Project plan (depends on the size of the project, around 3days)
-- 🔁  Plan-execution-measure loop
 
 
-### Plan-execution-measure loop
+## Plan-execution-measure loop
 
 We're splitting the project into smaller parts (scenarios), each chunk is planned individually
 
