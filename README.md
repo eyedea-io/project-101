@@ -34,7 +34,7 @@ If *NO-GO* - see you next time! 👋
 
 Let's do this!
 
-- #️⃣  Slack channel setup - all communication goes there - main rule: ** don't use private messages** 
+- #️⃣  Slack channel setup - all communication goes there - main rule: **don't use private messages** 
 - 📅  Team & project introduction meeting (1h)
 - 🛠  Tools access/setup - both sides provide a list of people & tools (we're creating accounts if needed)
 - 🗓  Project plan (depends on the size of the project, around 3days)
@@ -78,7 +78,7 @@ Every team member has a certain role and responsibility. We're using a clear res
 
 ### Tech & tools
 
-Our main design tool is *Figma*, our tech stack is react (with typescript), node & nest.js but we're multidisciplinary team, and we're not afraid of new technologies.
+Our main design tool is *Figma*, our tech stack is react (with typescript), node, nest.js, and various cloud platforms. We're multidisciplinary team, and we're not afraid of new technologies - so if you don't see the one you need - just ask, maybe we can help.
 
 
 
