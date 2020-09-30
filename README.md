@@ -47,6 +47,13 @@ We're splitting the project into smaller parts (scenarios), each chunk is planne
 - 🔎  Scenario measurement
 
 
+## After the project
+
+- 📅  Project retrospective meeting (2h)
+- 🍻  Success celebration - end of the project 🎉
+
+
+
 ## Project execution details
 
 During the product development you'll get: 
@@ -82,10 +89,7 @@ As we're going together towards the goal of doing the project, we'll need your p
 - 🙋‍  Follow instructions set according to your role in the responsibility assignment matrix
 
 
-## After the project
 
-- 📅  Project retrospective (2h)
-- 🍻  Success celebration 
 
 
 ## Contact us!
