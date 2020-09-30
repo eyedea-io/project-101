@@ -43,7 +43,7 @@ Let's do this!
 We're splitting the project into smaller parts (scenarios), each chunk is planned individually
 
 - 📅  Scenario planning (1h)
-- 💻  Scenario execution 
+- 💻  Scenario execution - development / design 
 - 🔎  Scenario measurement
 
 
