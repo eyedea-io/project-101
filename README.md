@@ -78,7 +78,7 @@ Every team member has a certain role and responsibility. We're using a clear res
 
 ### Tech & tools
 
-Our main designing tool is *Figma* 
+Our main design tool is *Figma*, our tech stack is react (with typescript), node & nest.js but we're multidisciplinary team, and we're not afraid of new technologies.
 
 
 
