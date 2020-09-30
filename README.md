@@ -1,3 +1,5 @@
+![](https://eyedea.io/img/eyedea_og_img.png)
+
 # WORKING WITH EYEDEA 101 
 
 Our collaboration is based on these fundamentals: 
