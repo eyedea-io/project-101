@@ -8,7 +8,9 @@ Our collaboration is based on these fundamentals:
 
 The document you're reading is a schema of our typical product development project. It is inspired by the launch list of NASA's countdown procedure for rockets 🚀.
 
-## Before the project (3-5 days)
+## Project timeline
+
+### Before the project (3-5 days)
 
 - 📅  Initial meeting (1-2h) - project scope & needs description
 - 📦  Send us all specifications/files/designs - everything that might be useful - hello@eyedea.io
@@ -17,7 +19,7 @@ The document you're reading is a schema of our typical product development proje
 - 📩  E-mail message with our vision of your product development with some numbers 
 
 
-## FINAL GO / NO-GO 
+### FINAL GO / NO-GO 
 
 At this point, both sides need to decide if we're starting the cooperation. 
 
@@ -28,7 +30,7 @@ If *GO* - agreement, type of cooperation (time & material / fixed price), start 
 If *NO-GO* - see you next time! 👋
 
 
-## Project kickoff 🚀 (start date)
+### Project kickoff 🚀 (start date)
 
 Let's do this!
 
@@ -38,7 +40,7 @@ Let's do this!
 - 🗓  Project plan (depends on the size of the project, around 3days)
 
 
-## Plan-execution-measure loop
+### Plan-execution-measure loop
 
 We're splitting the project into smaller parts (scenarios), each chunk is planned individually
 
@@ -47,7 +49,7 @@ We're splitting the project into smaller parts (scenarios), each chunk is planne
 - 🔎  Scenario measurement
 
 
-## After the project
+### After the project
 
 - 📅  Project retrospective meeting (2h)
 - 🍻  Success celebration - end of the project 🎉
