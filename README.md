@@ -51,12 +51,24 @@ We're building things with our method called Flow. It's scenarios based way of d
 
 ![](https://flowplatform.io/figma-flow/static/example2-677cad21bb816415e9159814edff74af.png)
 
+Every team member has a certain role and responsibility. We're using a clear responsibility matrix for that.
+
+![](./matrix.png)
+
+
 ### Project schedule
 
-- 🎨  design sprint 
-- 💻  access to designs & code
-- ⏰  access to hour reports
+- 🗓  project plan
+- 🔁  plan-execution-measure loop
 
+
+### Plan-execution-measure loop
+
+We're splitting the project into smaller parts (scenarios), each chunk is planned individually
+
+- 📅  Scenario planning (1h)
+- 💻  Scenario execution 
+- 🔎  Scenario measurement
 
 
 ### Your duties
@@ -64,10 +76,15 @@ We're building things with our method called Flow. It's scenarios based way of d
 As we're going together towards the goal of doing the project, we'll need your presence sometimes.
 
 - #️⃣  answer for questions on Slack
-- 📅  attend product meetings 
+- 📅  attend product meetings (once a week / 2 weeks - 1h)
 - 🙋‍  follow instructions set according to your role in the responsibility assignment matrix
 
 ## After the project
 
 - 📅  Project retrospective (2h)
 - 🍻  Success celebration 
+
+
+## Contact us!
+
+If you want to talk about our new cooperation, send us a message at hello@eyedea.io and we'll set up a meeting 🚀.
