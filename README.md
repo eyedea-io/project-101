@@ -37,26 +37,7 @@ Let's do this!
 - 🛠  Tools access/setup - both sides provide a list of people & tools (we're creating accounts if needed)
 
 
-## Project 
-
-During the product development you'll get: 
-
-- 📩  Weekly summary of project progress with hour reports and most exciting updates (single e-mail)
-- 💻  Access to designs & code
-- ⏰  Access to hour reports
-
-### Tools & methods
-
-We're building things with our method called Flow. It's scenarios based way of describing your product, and it's understandable by every team member (including you). We're happy to tell you more about it - don't hesitate to ask!
-
-![](https://flowplatform.io/figma-flow/static/example2-677cad21bb816415e9159814edff74af.png)
-
-Every team member has a certain role and responsibility. We're using a clear responsibility matrix for that.
-
-![](./matrix.png)
-
-
-### Project schedule
+## Project timeline
 
 - 🗓  Project plan (depends on the size of the project, around 3days)
 - 🔁  Plan-execution-measure loop
@@ -71,6 +52,32 @@ We're splitting the project into smaller parts (scenarios), each chunk is planne
 - 🔎  Scenario measurement
 
 
+## Project execution details
+
+During the product development you'll get: 
+
+- 📩  Weekly summary of project progress with hour reports and most exciting updates (single e-mail)
+- 💻  Access to designs & code
+- ⏰  Access to hour reports
+
+
+### Method & responsibility distribution
+
+We're building things with our method called Flow. It's scenarios based way of describing your product, and it's understandable by every team member (including you). We're happy to tell you more about it - don't hesitate to ask!
+
+![](https://flowplatform.io/figma-flow/static/example2-677cad21bb816415e9159814edff74af.png)
+
+Every team member has a certain role and responsibility. We're using a clear responsibility matrix for that.
+
+![](./matrix.png)
+
+
+### Tech & tools
+
+Our main designing tool is *Figma* 
+
+
+
 ### Your duties
 
 As we're going together towards the goal of doing the project, we'll need your presence sometimes.
@@ -78,6 +85,7 @@ As we're going together towards the goal of doing the project, we'll need your p
 - #️⃣  Answer for questions on Slack
 - 📅  Attend product meetings (once a week / 2 weeks - 1h)
 - 🙋‍  Follow instructions set according to your role in the responsibility assignment matrix
+
 
 ## After the project
 
