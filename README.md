@@ -5,8 +5,8 @@
 Our collaboration is based on these fundamentals: 
 
 - Transparency
-- Cooperation
-- Team play
+- Open communication
+- Product-oriented thinking
 
 The document you're reading is a schema of our typical product development project. It is inspired by the launch list of NASA's countdown procedure for rockets 🚀.
 
