@@ -40,6 +40,9 @@ Let's do this!
 - 📅  Team & project introduction meeting (1h)
 - 🛠  Tools access/setup - both sides provide a list of people & tools (we're creating accounts if needed)
 - 🗓  Project plan (depends on the size of the project, around 3days)
+- 💻 Decision on the releasing system - both parties agree:
+  - How the application will be versioned considering milestones, features and bugfixes
+  - What is the release timeframe for new scenarios and features
 
 
 ### 4. Plan-execution-measure loop
